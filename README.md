@@ -20,3 +20,5 @@ Available commands:
 
 - @everyone: To send message to all users in the chat server
 - ?how: To see instruction for more functions, such as commands to create group or quit the app.
+
+The application, however, failed to deliver file sometimes.
